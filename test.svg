@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="500">
   <foreignObject class="node" x="46" y="22" width="800" height="500">
     <body xmlns="http://www.w3.org/1999/xhtml">
-      <iframe src="https://cv.xava.me/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+      <iframe src="https://raw.githubusercontent.com/atagulalan/atagulalan/6d4432ef4e4c23385783222051207f6a8d890946/test.svg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
     </body>
   </foreignObject>
 </svg>
